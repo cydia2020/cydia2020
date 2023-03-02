@@ -1,4 +1,5 @@
 > #### Jack of all trades, master of NONE
+(Me, having trouble maintaining a single hobby, as someone with ADHD)
 
 ### Hi there 👋
 Cheng here (they/them), 
