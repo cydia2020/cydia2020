@@ -1,11 +1,20 @@
 > #### Jack of all trades, master of NONE
-(Me, having trouble maintaining a single hobby, as someone with ADHD)
+<sub><sup>(Me, having trouble maintaining a single hobby, as someone with ADHD)</sub></sup>
+
+🎶
+> <i>From the chaos\
+> Scared and afraid\
+> I will wander\
+> I will remain\
+> Strong, but it sets with the sun\
+> Hopeless, I'm chasing the dawn\
+> And I wander, wander on</i>
 
 ### Hi there 👋
-Cheng here (they/them), 
+Cheng (en: Irene) here (Enby 🏳️‍⚧️ they/them), 
 
-🛩️ I am an aviation management graduate from Swinburne University.\
-🚗 I do automotive and computer related stuff on the side for fun.\
+🛩️ I am an aviation management graduate from [Swinburne University](https://swinburne.edu.au).\
+🚗 I do smart home, automotive, and computer related stuff on the side for fun.\
 🪪 I also maintain a fork of openpilot for Toyota/Lexus vehicles. [Give it a try.](https://github.com/cydia2020/dodgypilot)
 
 Looking for an entry level job in Remote Piloting / Aviation Management.
