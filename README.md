@@ -11,7 +11,7 @@
 > And I wander, wander on</i>
 
 ### Hi there 👋
-Cheng (en: Irene) here (Enby 🏳️‍⚧️ they/them), 
+Cheng (en: Irene) here (Non-binary 🏳️‍⚧️ they/them), 
 
 🛩️ I am an aviation management graduate from [Swinburne University](https://swinburne.edu.au).\
 🚗 I do smart home, automotive, and computer related stuff on the side for fun.\
@@ -20,6 +20,9 @@ Cheng (en: Irene) here (Enby 🏳️‍⚧️ they/them),
 Looking for an entry level job in Remote Piloting / Aviation Management.
 
 :3
+
+<sub><sup>PFP Pixiv ID: [97477701](https://www.pixiv.net/artworks/97477701)</sub></sup>
+
 
 \
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cydia2020&show_icons=true&theme=dark)
