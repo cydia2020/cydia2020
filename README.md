@@ -11,7 +11,7 @@
 > And I wander, wander on</i>
 
 ### Hi there 👋
-Cheng (en: Irene) here (Non-binary 🏳️‍⚧️ they/them), 
+Irene (zh: Cheng) here (Non-binary 🏳️‍⚧️ they/them), 
 
 🛩️ I am an aviation management graduate from [Swinburne University](https://swinburne.edu.au).\
 🚗 I do smart home, automotive, and computer related stuff on the side for fun.\
