@@ -11,13 +11,12 @@
 > And I wander, wander on</i>
 
 ### Hi there 👋
-Irene (zh: Cheng) here (Non-binary 🏳️‍⚧️ they/them), 
+Irene (zh: Cheng) here (Non-binary 🏳️‍⚧️), 
 
 🛩️ I am an aviation management graduate from [Swinburne University](https://swinburne.edu.au).\
 🚗 I do smart home, automotive, and computer related stuff on the side for fun.\
 🪪 I also maintain a fork of openpilot for Toyota/Lexus vehicles. [Give it a try.](https://github.com/cydia2020/dodgypilot)
 
-Looking for an entry level job in Remote Piloting / Aviation Management.
 
 :3
 
