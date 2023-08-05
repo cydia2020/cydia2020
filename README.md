@@ -11,12 +11,12 @@
 > And I wander, wander on</i>
 
 ### Hi there 👋
-Irene here (Non-binary transfem 🏳️‍⚧️), you can also call me Cheng, which is my Chinese name.
+Irene here, you can also call me Cheng, which is my Chinese name.
 
 🛩️ I am an aviation management graduate from [Swinburne University](https://swinburne.edu.au).\
 🚗 I do smart home, automotive, and computer related stuff on the side for fun.\
 🪪 I also maintain a fork of openpilot for Toyota/Lexus vehicles. [Give it a try.](https://github.com/cydia2020/dodgypilot)\
-👷‍♀️ I work in constructions as an intern.
+👷‍♀️ I work in construction as an intern.
 
 :3
 
