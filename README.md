@@ -1,6 +1,14 @@
 > #### Jack of all trades, master of NONE
 <sub><sup>(Me, having trouble maintaining a single hobby, as someone with ADHD)</sub></sup>
 
+# 👋 Hi there, Irene here!
+
+🛩️ I am a Master of Aviation student from [Swinburne University](https://swinburne.edu.au).\
+🚗 I do smart home, automotive, and computer related stuff on the side for fun.\
+🪪 I also maintain a fork of openpilot for Toyota/Lexus vehicles. [Give it a try.](https://github.com/cydia2020/dodgypilot)
+
+:3
+
 🎶
 > <i>From the chaos\
 > Scared and afraid\
@@ -9,16 +17,6 @@
 > Strong, but it sets with the sun\
 > Hopeless, I'm chasing the dawn\
 > And I wander, wander on</i>
-
-### Hi there 👋
-Irene here, you can also call me Cheng, which is my Chinese name.
-
-🛩️ I am an aviation management graduate from [Swinburne University](https://swinburne.edu.au).\
-🚗 I do smart home, automotive, and computer related stuff on the side for fun.\
-🪪 I also maintain a fork of openpilot for Toyota/Lexus vehicles. [Give it a try.](https://github.com/cydia2020/dodgypilot)\
-👷‍♀️ I work in construction as an intern.
-
-:3
 
 <sub><sup>PFP Pixiv ID: [97477701](https://www.pixiv.net/artworks/97477701)</sub></sup>
 
