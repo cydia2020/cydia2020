@@ -18,8 +18,6 @@
 > Hopeless, I'm chasing the dawn\
 > And I wander, wander on</i>
 
-<sub><sup>PFP Pixiv ID: [97477701](https://www.pixiv.net/artworks/97477701)</sub></sup>
-
 
 \
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cydia2020&show_icons=true&theme=dark)
